@@ -1,4 +1,4 @@
-# AC_MongoDB
+# AR_MongoDB
 Active Record with mongo db
 
 # Configuration
